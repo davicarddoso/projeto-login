@@ -3,6 +3,7 @@
 @media screen and (min-width: 768px) and (max-width:992px) {
     section#Login {
         width: 90vw;
+        height: 500px;
     }
     section#Login > div#imagem {
         float: left;
@@ -40,7 +41,7 @@
         width: 50%;
     }
     body {
-        background-image: linear-gradient(to top 40% grey, rgb(1, 1, 1));
+        background-image: linear-gradient(to bottom, grey, rgb(46, 46, 46));
     }
     h1 {
         font-size: 2em;
